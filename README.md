@@ -224,21 +224,9 @@ memory.limit(size = 8000)
 ## 📚 참고문헌
 
 1. Montgomery, D. C. (2019). *Introduction to Statistical Quality Control* (8th ed.). Wiley.
-2. Ryan, T. P. (2011). *Statistical Methods for Quality Improvement* (3rd ed.). Wiley.
-3. Qiu, P. (2013). *Introduction to Statistical Process Control*. CRC Press.
-
-## 👥 기여
-
-프로젝트 개선 제안이나 버그 리포트는 이슈로 등록해주세요.
 
 ## 📄 라이선스
 
 MIT License
-
-## 📧 문의
-
-프로젝트 관련 문의사항이 있으시면 이슈를 통해 연락주세요.
-
----
 
 **Last Updated**: 2025-02-14
