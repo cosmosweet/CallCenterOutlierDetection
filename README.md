@@ -223,7 +223,7 @@ memory.limit(size = 8000)
 
 ## 📚 참고문헌
 
-1. Montgomery, D. C. (2019). *Introduction to Statistical Quality Control* (8th ed.). Wiley.
+1. Montgomery, D. C. (2018). *Introduction to Statistical Quality Control* (7th ed.). Wiley.
 
 ## 📄 라이선스
 
