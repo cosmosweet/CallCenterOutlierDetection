@@ -1,0 +1,24 @@
+# R Package Requirements
+# Install all packages at once using:
+# install.packages(c("readxl", "dplyr", "lubridate", "qcc", "zoo", "ggplot2", "knitr", "tibble", "spc", "MSQC"))
+
+# Data manipulation and reading
+readxl
+dplyr
+lubridate
+tibble
+
+# Statistical Process Control
+qcc
+spc
+MSQC
+zoo
+
+# Visualization and reporting
+ggplot2
+knitr
+
+# Note: This is not a standard requirements.txt format for R
+# For reproducible environments, consider using:
+# - renv (recommended): renv::init() and renv::snapshot()
+# - packrat: packrat::init()
